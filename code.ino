@@ -11,11 +11,10 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 #define infraredPin 4
-
 #define buttonPin 14
 
-#define WIFI_SSID "TEKNOKRATAIN"
-#define WIFI_PASSWORD "12345678"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 #define API_KEY ""
 #define FIREBASE_PROJECT_ID ""
